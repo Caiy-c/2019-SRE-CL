@@ -13,3 +13,14 @@ If you have any questions, please contact us by email 2541033131@qq.com.
 4. 如果以上“实验一”链接不能跳转，请直接访问[项目仓库](https://github.com/Caiy-c/2019-SRE-CL)https://github.com/Caiy-c/2019-SRE-CL
 5. 任何疑问，请联系2541033131@qq.com
 6. 感谢您的阅读
+
+### LAB 2 需求获取
+点击查看实验二提交   [实验二](https://github.com/Caiy-c/2019-SRE-CL/tree/master/软件需求实验二)
+
+请阅读以下说明：
+1. 本实验小组包含两位成员：171860022 梁欣悦   171860026 蔡悦
+2. 本实验贡献及实验分配为1：1
+3. 本实验提交内容包括：1份实验报告；1份需求优先级文件；1份优先级验证文件（详见该文件夹下README）
+4. 如果以上“实验二”链接不能跳转，请直接访问[项目仓库](https://github.com/Caiy-c/2019-SRE-CL)https://github.com/Caiy-c/2019-SRE-CL
+5. 任何疑问，请联系2541033131@qq.com
+6. 感谢您的阅读
