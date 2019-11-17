@@ -14,7 +14,7 @@ If you have any questions, please contact us by email 2541033131@qq.com.
 5. 任何疑问，请联系2541033131@qq.com
 6. 感谢您的阅读
 
-### LAB 2 需求获取
+### LAB 2 需求排序
 点击查看实验二提交   [实验二](https://github.com/Caiy-c/2019-SRE-CL/tree/master/软件需求实验二)
 
 请阅读以下说明：
