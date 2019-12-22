@@ -7,5 +7,5 @@
 1. 实验报告，为pdf文件， [软件需求实验三_实验报告](https://github.com/Caiy-c/2019-SRE-CL/tree/master/软件需求实验三/软件需求实验三_实验报告.pdf)
 2. 附件A，需求变更文本及代码， [需求变更文本及代码.txt](https://github.com/Caiy-c/2019-SRE-CL/tree/master/软件需求实验三/需求变更文本及代码.txt)
 3. 附件B，python爬虫脚本，[PythonApplication1.py](https://github.com/Caiy-c/2019-SRE-CL/tree/master/软件需求实验三/PythonApplication1.py)
-4. 附件C，需求变更时间线文件，(https://github.com/Caiy-c/2019-SRE-CL/tree/master/软件需求实验三/需求变更时间线.xlsx)
+4. 附件C，需求变更时间线文件，[需求变更时间线文件.xlsx](https://github.com/Caiy-c/2019-SRE-CL/tree/master/软件需求实验三/需求变更时间线.xlsx)
 5. 以上文件可能需要您下载后查看
